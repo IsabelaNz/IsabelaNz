@@ -1,8 +1,8 @@
 ### Olá 👋
 
-- Desenvolvedor em evolução á procura de um estágio.
+- Desenvolvedora em evolução á procura de um estágio.
 - Cursando Análise e Desenvolvimento de Sistemas
-- Contato: marcelocervantes2707@outlook.com
+- Contato: isabelanunes533905@gmail.com
 
 
 <a href="https://github.com/IsabelaNz/github-readme-stats">
