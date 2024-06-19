@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- Desenvolvedora em evolução á procura de um estágio.
+- Desenvolvedora de sistemas Back-end no Bradesco.
 - Cursando Análise e Desenvolvimento de Sistemas
 - Contato: isabelanunes533905@gmail.com
 
