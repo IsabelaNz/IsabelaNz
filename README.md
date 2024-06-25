@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- Desenvolvedora de sistemas Back-end no Bradesco.
+- Atualizações de cargo em breve .
 - Cursando Análise e Desenvolvimento de Sistemas
 - Contato: isabelanunes533905@gmail.com
 
