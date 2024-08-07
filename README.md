@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- Atualizações de cargo em breve .
+- Estagiária de Desenvolvimento de Sistemas no Bradesco..
 - Cursando Análise e Desenvolvimento de Sistemas
 - Contato: isabelanunes533905@gmail.com
 
