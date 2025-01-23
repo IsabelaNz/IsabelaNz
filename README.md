@@ -3,6 +3,7 @@
 - Estagiária de Desenvolvimento de Sistemas no Bradesco..
 - Cursando Análise e Desenvolvimento de Sistemas
 - Contato: isabelanunes533905@gmail.com
+- AZ-900 Microsoft Azure Fundamentals
 
 
 <a href="https://github.com/IsabelaNz/github-readme-stats">
