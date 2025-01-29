@@ -11,6 +11,6 @@
 </a>
 
 <a href="https://github.com/IsabelaNz/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaNz&layout=compact&theme=dar" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaNz&layout=compact&theme=dark" />
 </a>
 
