@@ -7,7 +7,7 @@
 
 
 <a href="https://github.com/IsabelaNz/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=IsabelaNz&theme=highcontrast_icons=true&include_all_commits=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=highcontrast _icons=true" />
 </a>
 
 <a href="https://github.com/IsabelaNz/github-readme-stats">
