@@ -7,9 +7,9 @@
 
 
 <a href="https://github.com/IsabelaNz/github-readme-stats">
-  <img height=180 align="center" src=![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=ocean_dark _icons=true) />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=IsabelaNz&theme=dark&show_icons=true&include_all_commits=true" />
 </a>
 
 <a href="https://github.com/IsabelaNz/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaNz&layout=compact&theme=panda" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaNz&layout=compact&theme=dark" />
 </a>
