@@ -6,9 +6,7 @@
 - AZ-900 Microsoft Azure Fundamentals
 
 
-<a href="https://github.com/IsabelaNz/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=IsabelaNz&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="IsabelaNz's GitHub Stats" />
 
 <a href="https://github.com/IsabelaNz/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaNz&layout=compact&theme=dark" />
