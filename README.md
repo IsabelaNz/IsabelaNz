@@ -1,10 +1,10 @@
-### Olá 👋
+### Hello 👋
 
-- Estagiária de Desenvolvimento de Sistemas no Bradesco.
-- Cursando Análise e Desenvolvimento de Sistemas (4° semestre).
-- Contato: isabelanunes533905@gmail.com
-- AZ-900 Microsoft Azure Fundamentals
-- DP-900 Microsoft Data Fundamentals
+Software Engineer I
+Graduated in Systems Analysis and Development
+Contact: isabelanunes533905@gmail.com
+AZ-900 Microsoft Azure Fundamentals
+DP-900 Microsoft Data Fundamentals
 
 
 <div style="display: flex; align-items: center; gap: 10px;">
